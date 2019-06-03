@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Our work}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Related Work}{}% 3
+\BOOKMARK [1][-]{section.3}{The signature as a layer in a neural network}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Stream-preserving neural networks}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Backpropagation}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.3}{Multiple signature layers}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Supervised learning with fractional Brownian motion}{}% 8
+\BOOKMARK [1][-]{section.5}{Inverting the truncated signature}{}% 9
+\BOOKMARK [1][-]{section.6}{A generative model for a stochastic process}{}% 10
+\BOOKMARK [1][-]{section.7}{Reinforcement Learning}{}% 11
+\BOOKMARK [1][-]{appendix.A}{A brief overview of signatures}{}% 12
+\BOOKMARK [2][-]{subsection.A.1}{Properties of signatures}{appendix.A}% 13
+\BOOKMARK [2][-]{subsection.A.2}{Computing signatures}{appendix.A}% 14

@@ -1,0 +1,137 @@
+\begin{thebibliography}{10}
+
+\bibitem{primer2016}
+I.~Chevyrev and A.~Kormilitzin, ``A primer on the signature method in machine
+  learning,'' {\em arXiv preprint arXiv:1603.03788}, 2016.
+
+\bibitem{Chen54}
+K.~T. Chen, ``Iterated integrals and exponential homomorphisms,'' {\em Proc.
+  London Math. Soc, 4, 502-512}, 1954.
+
+\bibitem{Chen57}
+K.~T. Chen, ``Integration of paths, geometric invariants and a generalized
+  baker-hausdorff formula,'' {\em Ann. of Math. (2), 65:163—178}, 1957.
+
+\bibitem{Chen58}
+K.~T. Chen, ``Integration of paths - a faithful representation of paths by
+  non-commutative formal power series,'' {\em Trans. Amer. Math. Soc. 89
+  (1958), 395–407}, 1958.
+
+\bibitem{lyons1998differential}
+T.~J. Lyons, ``Differential equations driven by rough signals,'' {\em Revista
+  Matem{\'a}tica Iberoamericana}, vol.~14, no.~2, pp.~215--310, 1998.
+
+\bibitem{FritzVictoir10}
+P.~K. Friz and N.~B. Victoir, ``Multidimensional stochastic processes as rough
+  paths: theory and applications,'' {\em Cambridge University Press}, 2010.
+
+\bibitem{yang2015chinese}
+W.~Yang, L.~Jin, and M.~Liu, ``Chinese character-level writer identification
+  using path signature feature, dropstroke and deep cnn,'' in {\em 2015 13th
+  International Conference on Document Analysis and Recognition (ICDAR)},
+  pp.~546--550, IEEE, 2015.
+
+\bibitem{xie2018learning}
+Z.~Xie, Z.~Sun, L.~Jin, H.~Ni, and T.~Lyons, ``Learning spatial-semantic
+  context with fully convolutional recurrent network for online handwritten
+  chinese text recognition,'' {\em IEEE transactions on pattern analysis and
+  machine intelligence}, vol.~40, no.~8, pp.~1903--1917, 2018.
+
+\bibitem{yang2016dropsample}
+W.~Yang, L.~Jin, D.~Tao, Z.~Xie, and Z.~Feng, ``Dropsample: A new training
+  method to enhance deep convolutional neural networks for large-scale
+  unconstrained handwritten chinese character recognition,'' {\em Pattern
+  Recognition}, vol.~58, pp.~190--203, 2016.
+
+\bibitem{yang2016deepwriterid}
+W.~Yang, L.~Jin, and M.~Liu, ``Deepwriterid: An end-to-end online
+  text-independent writer identification system,'' {\em IEEE Intelligent
+  Systems}, vol.~31, no.~2, pp.~45--53, 2016.
+
+\bibitem{li2017lpsnet}
+C.~Li, X.~Zhang, and L.~Jin, ``Lpsnet: a novel log path signature feature based
+  hand gesture recognition framework,'' in {\em Proceedings of the IEEE
+  International Conference on Computer Vision}, pp.~631--639, 2017.
+
+\bibitem{yang2017leveraging}
+W.~Yang, T.~Lyons, H.~Ni, C.~Schmid, L.~Jin, and J.~Chang, ``Leveraging the
+  path signature for skeleton-based human action recognition,'' {\em arXiv
+  preprint arXiv:1707.03993}, 2017.
+
+\bibitem{yang2016rotation}
+W.~Yang, L.~Jin, H.~Ni, and T.~Lyons, ``Rotation-free online handwritten
+  character recognition using dyadic path signature features, hanging
+  normalization, and deep neural network,'' in {\em 2016 23rd International
+  Conference on Pattern Recognition (ICPR)}, pp.~4083--4088, IEEE, 2016.
+
+\bibitem{kiraly2016kernels}
+F.~J. Kir{\'a}ly and H.~Oberhauser, ``Kernels for sequentially ordered data,''
+  {\em arXiv preprint arXiv:1601.08169}, 2016.
+
+\bibitem{chevyrev2018signature}
+I.~Chevyrev and H.~Oberhauser, ``Signature moments to characterize laws of
+  stochastic processes,'' {\em arXiv preprint arXiv:1810.10971}, 2018.
+
+\bibitem{mishura2008stochastic}
+I.~S. Mishura, I.~S. Mishura, J.~S. Mi{\v{s}}ura, Y.~Mishura, and {\^U}.~S.
+  Mi{\v{s}}ura, {\em Stochastic calculus for fractional Brownian motion and
+  related processes}, vol.~1929.
+\newblock Springer Science \& Business Media, 2008.
+
+\bibitem{gatheral2014volatility}
+J.~Gatheral, T.~Jaisson, and M.~Rosenbaum, ``Volatility is rough,'' {\em arXiv
+  preprint arXiv:1410.3394}, 2014.
+
+\bibitem{lacasa2009visibility}
+L.~Lacasa, B.~Luque, J.~Luque, and J.~C. Nuno, ``The visibility graph: A new
+  method for estimating the hurst exponent of fractional brownian motion,''
+  {\em EPL (Europhysics Letters)}, vol.~86, no.~3, p.~30001, 2009.
+
+\bibitem{lyons2014inverting}
+T.~Lyons and W.~Xu, ``Inverting the signature of a path,'' {\em arXiv preprint
+  arXiv:1406.7833}, 2014.
+
+\bibitem{chang2017signature}
+J.~Chang, N.~Duffield, H.~Ni, W.~Xu, {\em et~al.}, ``Signature inversion for
+  monotone paths,'' {\em Electronic Communications in Probability}, vol.~22,
+  2017.
+
+\bibitem{chang2018effective}
+J.~Chang, {\em Effective algorithms for inverting the signature of a path}.
+\newblock PhD thesis, University of Oxford, 2018.
+
+\bibitem{UCI}
+D.~Dua and C.~Graff, ``{UCI} machine learning repository,'' 2017.
+
+\bibitem{goodfellow2014generative}
+I.~Goodfellow, J.~Pouget-Abadie, M.~Mirza, B.~Xu, D.~Warde-Farley, S.~Ozair,
+  A.~Courville, and Y.~Bengio, ``Generative adversarial nets,'' in {\em
+  Advances in neural information processing systems}, pp.~2672--2680, 2014.
+
+\bibitem{gmmn2015}
+Y.~Li, K.~Swersky, and R.~Zemel, ``Generative moment matching networks,'' {\em
+  ICML}, 2015.
+
+\bibitem{traininggmmns2015}
+G.~K. Dziugaite, D.~M. Roy, and Z.~Ghahramani, ``Training generative neural
+  networks via maximum mean discrepancy optimization,'' {\em UAI}, 2015.
+
+\bibitem{gretton2017}
+A.~Gretton, K.~M. Borgwardt, M.~Rasch, B.~Scholkopf, and A.~J. Smola, ``A
+  kernel method for the two-sample problem,'' {\em Advances in Neural
+  Information Processing Systems (NIPS)}, 2007.
+
+\bibitem{uhlenbeck1930theory}
+G.~E. Uhlenbeck and L.~S. Ornstein, ``On the theory of the brownian motion,''
+  {\em Physical review}, vol.~36, no.~5, p.~823, 1930.
+
+\bibitem{hambly2010uniqueness}
+B.~M. {Hambly} and T.~J. {Lyons}, ``Uniqueness for the signature of a path of
+  bounded variation and the reduced path group,'' {\em Annals of Mathematics},
+  vol.~171, no.~1, pp.~109--167, 2010.
+
+\bibitem{lyons2014rough}
+T.~Lyons, ``Rough paths, signatures and the modelling of functions on
+  streams,'' {\em arXiv preprint arXiv:1405.4537}, 2014.
+
+\end{thebibliography}

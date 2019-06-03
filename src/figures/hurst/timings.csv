@@ -1,0 +1,2 @@
+GRU,ReluNet,"LinearSig (no backprop, depth: 4)",RNN,SigNet,DeepSigNet,LSTM
+724,159,161,365,178,1125,812

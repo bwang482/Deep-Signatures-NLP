@@ -1,0 +1,2 @@
+GRU,ReluNet,TanhNet,RNN,SigNet_1_layer,DeepSigNet_ExpandingWindow,StaticSig_LinearRegression (depth: 5)
+724,159,161,365,178,1125,47
